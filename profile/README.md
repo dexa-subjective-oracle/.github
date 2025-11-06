@@ -1,4 +1,4 @@
-Programmable audiovisual truth oracle
+programmable audiovisual truth oracle
 
 <!--
 
